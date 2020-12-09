@@ -12,45 +12,45 @@ class Directory extends React.Component {
             sections: [
                 {
                   title: 'sweaters',
-                  imageUrl: 'https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1868&q=80',
+                  imageUrl: 'https://i.ibb.co/SvGdhs3/markus-winkler-PQm-XUxmf-R44-unsplash-1.jpg',
                   id: 1,
                   linkUrl: 'shop/sweaters'
                 },
                 {
                   title: 'shoes',
-                  imageUrl: 'https://images.unsplash.com/photo-1512374382149-233c42b6a83b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=675&q=80',
+                  imageUrl: 'https://i.ibb.co/g3MVkd5/joseph-barrientos-4q-Sb-FWh-HKs-unsplash-1.jpg',
                   id: 2,
                   linkUrl: 'shop/shoes'
                 },
                 {
                   title: 'shirts',
-                  imageUrl: 'https://images.unsplash.com/photo-1549037173-e3b717902c57?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80',
+                  imageUrl: 'https://i.ibb.co/XC32Krc/waldemar-brandt-Db4d6-MRIXJc-unsplash-1.jpg',
                   id: 3,
                   linkUrl: 'shop/shirts'
                 },
                 {
                   title: 'sarees',
-                  imageUrl: 'https://static.peachmode.com/media/images/product/48354/small/1586502007_1_SSTSU-5034-BLUE-MAROON-Sky_Blue-Maroon_Half__Half_Art_Silk_Saree-PEACHMODE.jpg',
+                  imageUrl: 'https://i.ibb.co/K062xhR/white-with-pink-wedding-silk-saree-9ka4118-arrs-silks-14462764974133.jpg',
                   id: 4,
                   linkUrl: 'shop/sarees'
                 },
                 {
                   title: 'mens',
-                  imageUrl: 'https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80',
+                  imageUrl: 'https://i.ibb.co/jD3MhNG/fabio-scaletta-c-YSRnc-Vx-E44-unsplash.jpg',
                   size: 'large',
                   id: 5,
                   linkUrl: 'shop/mens'
                 },
                 {
                   title: 'womens',
-                  imageUrl: 'https://images.unsplash.com/photo-1574279606130-09958dc756f7?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=800&q=80',
+                  imageUrl: 'https://i.ibb.co/sbkjsXk/gemma-chua-tran-j-NVg-Cp-Q0-Lh-Q-unsplash.jpg',
                   size: 'large',
                   id: 6,
                   linkUrl: 'shop/womens'
                 },
                 {
                   title: 'children',
-                  imageUrl: 'https://images.unsplash.com/photo-1540479859555-17af45c78602?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80',
+                  imageUrl: 'https://i.ibb.co/kGLmngS/robert-collins-l-P-Fb-Bk-Mn1c-unsplash.jpg',
                   size: 'large',
                   id: 7,
                   linkUrl: 'shop/children'
