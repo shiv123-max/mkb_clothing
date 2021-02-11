@@ -1,5 +1,5 @@
- const SHOP_DATA = [
-        { 
+ const SHOP_DATA = {
+       sweaters: { 
       
           id: 1, 
       
@@ -121,7 +121,7 @@
       
         }, 
       
-        { 
+        shoes: { 
       
           id: 2, 
       
@@ -231,7 +231,7 @@
       
         }, 
       
-        { 
+      shirts: { 
       
           id: 3, 
       
@@ -305,7 +305,7 @@
       
         }, 
       
-        { 
+      sarees: { 
       
           id: 4, 
       
@@ -379,7 +379,7 @@
       
         }, 
       
-        { 
+       mens: { 
       
           id: 5, 
       
@@ -465,7 +465,7 @@
       
         }, 
       
-        { 
+      womens: { 
       
           id: 6, 
       
@@ -563,7 +563,7 @@
       
         }, 
       
-        { 
+        children: { 
       
           id: 7, 
       
@@ -646,6 +646,6 @@
             } 
           ] 
         } 
-      ]; 
+ }; 
       
       export default SHOP_DATA;
